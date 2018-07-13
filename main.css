@@ -1,0 +1,22 @@
+@media (min-width: 576px) { 
+    .sideBar {
+        position: fixed;
+    }
+}
+
+@media (max-width: 576px) {
+    .scrollClass {
+        height:175px;
+        overflow-y: scroll;
+    }
+}
+
+
+.card {
+    border: 0;
+}
+
+.card-block {
+    background-color: #f7f7f7;
+}
+
